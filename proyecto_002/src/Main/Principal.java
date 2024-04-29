@@ -1,6 +1,5 @@
 package Main;
 
-
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
@@ -17,6 +16,14 @@ import Escenario.Vida;
 import Ventana.Window;
 import personajes.Marciano;
 import personajes.Nave;
+
+/**
+* 
+* @author John Steven Quinatoa Guerrero 
+* Tema: Inversion de dependencia
+* 
+*/
+	
 
 public class Principal {
 	
